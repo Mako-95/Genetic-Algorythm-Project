@@ -1,2 +1,1 @@
-# Projects
-Collage projects
+# Genetic Algorythm Project
